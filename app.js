@@ -1,4 +1,5 @@
 // Khawla Ahmed
+// Zainab Hammad
 // 📓 Console Logging Practice
 
 // 1. Simple Logging: Log the message "Hello, Bootcamp!" to the console.
